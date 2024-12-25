@@ -1,0 +1,3 @@
+BEGIN
+  OUTPUT STRING("Hello, World!") TO TERMINAL;
+END
