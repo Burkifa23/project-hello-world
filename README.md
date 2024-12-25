@@ -4,7 +4,7 @@ Hello World in different languages
 # Hello, World!
 [List_of_programming_languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
 - [X] A
-- [ ] B
+- [X] B
 - [ ] C
 - [ ] D
 - [ ] E
