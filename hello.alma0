@@ -1,0 +1,3 @@
+BEGIN
+  write("Hello, World!")
+END
