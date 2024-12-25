@@ -1,0 +1,4 @@
+import Ark
+public func main() {
+    print("Hello, World!")
+}
