@@ -1,0 +1,3 @@
+PROC main()
+    PRINT("Hello, World!")
+RETURN
