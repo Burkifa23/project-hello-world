@@ -1,0 +1,7 @@
+program HelloWorld
+{
+    activity Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
