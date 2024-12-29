@@ -1,0 +1,1 @@
+Definition hello := "Hello, World!".
