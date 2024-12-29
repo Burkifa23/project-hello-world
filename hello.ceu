@@ -1,0 +1,3 @@
+await FOREVER do
+    _printf("Hello, World!\n")
+end
