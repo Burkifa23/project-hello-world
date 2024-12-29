@@ -1,0 +1,6 @@
+00E0 ; Clear the screen
+6000 ; Set V0 to 0
+6100 ; Set V1 to 0
+F029 ; Point to the character 0
+D015 ; Draw character at V0, V1
+1200 ; Jump to address 200
