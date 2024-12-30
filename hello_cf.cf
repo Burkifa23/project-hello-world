@@ -1,0 +1,5 @@
+HelloWorld = def
+  "Hello, World!"
+end
+
+print( HelloWorld() )
