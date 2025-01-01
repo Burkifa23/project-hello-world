@@ -3,9 +3,9 @@ Hello World in different languages
 
 # Hello, World!
 [List_of_programming_languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
-- [X] [A](https://github.com/burkifa23/project-hello-world/A/A.md)
-- [X] [B](https://github.com/burkifa23/project-hello-world/B/B.md)
-- [X] [C](https://github.com/burkifa23/project-hello-world/C/C.md)
+- [X] [A](https://github.com/Burkifa23/project-hello-world/blob/main/A/A.md)
+- [X] [B](https://github.com/Burkifa23/project-hello-world/blob/main/B/B.md)
+- [X] [C](https://github.com/Burkifa23/project-hello-world/blob/main/C/C.md)
 - [ ] D
 - [ ] E
 - [ ] F
