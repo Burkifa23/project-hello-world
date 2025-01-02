@@ -1,8 +1,10 @@
 # All Languages Starting With A
 
-- [A.NET (A#/A sharp)]()
-_Description:_
-
+- [A.NET (A#/A sharp)](project-hello-world/blob/main/A/hello.a)
+**Description**: A# (A Sharp) is a variant of the Ada programming language, designed to work with the .NET framework. It offers integration with .NET libraries and tools, providing an efficient environment for developing robust, maintainable applications. 
+**Author**: Microsoft Research 
+**Paradigm**: Object-oriented, functional
+**Famous Use Cases**: Used for developing .NET applications, especially those requiring the strong typing and reliability features of Ada.
 
 ---
 
