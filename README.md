@@ -6,7 +6,7 @@ Hello World in different languages
 - [X] [A](https://github.com/Burkifa23/project-hello-world/blob/main/A/A.md)
 - [X] [B](https://github.com/Burkifa23/project-hello-world/blob/main/B/B.md)
 - [X] [C](https://github.com/Burkifa23/project-hello-world/blob/main/C/C.md)
-- [ ] D
+- [X] [D](https://github.com/Burkifa23/project-hello-world/blob/main/D/D.md)
 - [ ] E
 - [ ] F
 - [ ] G
