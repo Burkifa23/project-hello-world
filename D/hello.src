@@ -1,0 +1,3 @@
+Procedure Start_Main
+    Send Info_Box "Hello, World!"
+End_Procedure
