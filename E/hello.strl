@@ -1,0 +1,4 @@
+module HelloWorld:
+  output Hello;
+  emit Hello("Hello, World!");
+end module
