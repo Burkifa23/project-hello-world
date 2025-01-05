@@ -8,8 +8,8 @@ Hello World in different languages
 - [X] [C](https://github.com/Burkifa23/project-hello-world/blob/main/C/C.md)
 - [X] [D](https://github.com/Burkifa23/project-hello-world/blob/main/D/D.md)
 - [X] [E](https://github.com/Burkifa23/project-hello-world/blob/main/E/E.md)
-- [ ] F
-- [ ] G
+- [X] [F](https://github.com/Burkifa23/project-hello-world/blob/main/F/F.md)
+- [X] [G](https://github.com/Burkifa23/project-hello-world/blob/main/G/G.md)
 - [ ] H
 - [ ] I
 - [ ] J
