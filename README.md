@@ -31,6 +31,7 @@ Hello World in different languages
 - [ ] Z
 
 # Contributors:
+Want To Contribute? Read the [Contribution Guide](https://github.com/COSSAVVU/project-hello-world/blob/main/Contributing.md).
 <p align="center">
   <a href="https://github.com/COSSAVVU/project-hello-world/graphs/contributors">
     <img src="https://contributors-img.web.app/image?repo=COSSAVVU/project-hello-world" />
