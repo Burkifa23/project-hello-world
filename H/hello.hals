@@ -1,0 +1,3 @@
+BEGIN CODE
+    PRINT("Hello, World!")
+END CODE
