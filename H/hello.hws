@@ -1,0 +1,2 @@
+@DISPLAY {Title = "Hello, World!"}
+PRINT("Hello, World!")
