@@ -1,0 +1,4 @@
+program HelloWorld;
+begin HelloWorld;
+    stdout.put("Hello, World!");
+end HelloWorld;
