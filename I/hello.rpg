@@ -1,0 +1,6 @@
+H DFTACTGRP(*NO) ACTGRP(*NEW)
+FQPRINT   O    F  80        PRINTER
+C                   EVAL      *INLR = *ON
+C                   EXCEPT    HELLO
+OQPRINT   E            HELLO
+O                       'Hello, World!'
