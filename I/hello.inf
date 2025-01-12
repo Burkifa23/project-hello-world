@@ -1,0 +1,6 @@
+"Hello, World!" by You
+
+The story headline is "Hello, World!".
+
+When play begins:
+    say "Hello, World!".
