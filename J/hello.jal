@@ -1,0 +1,3 @@
+include "print.jal"
+
+print("Hello, World!")
