@@ -1,0 +1,7 @@
+import System;
+
+class HelloWorld {
+    static function Main() {
+        Console.WriteLine("Hello, World!");
+    }
+}
