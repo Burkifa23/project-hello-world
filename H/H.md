@@ -1,4 +1,4 @@
-# All Languages in G
+# All Languages in H
 
 # Hack
 - **Description:** Hack is a programming language for the HipHop Virtual Machine (HHVM), created by Facebook. It's designed to interoperate seamlessly with PHP and includes features like static typing, generics, and collections.
