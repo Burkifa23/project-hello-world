@@ -1,0 +1,5 @@
+DEF HelloWorld ( )
+DECL CHAR msg[20]
+msg[] = "Hello, World!"
+HALT
+END
