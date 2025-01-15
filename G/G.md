@@ -1,4 +1,4 @@
-# All Languages in G
+# All Languages Starting With G
 
 # Game Maker Language
 - **Description:** Game Maker Language (GML) is a programming language used in the GameMaker Studio environment. It's designed for game development and offers an easy-to-learn syntax for beginners.
