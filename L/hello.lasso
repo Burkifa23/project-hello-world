@@ -1,0 +1,3 @@
+<?lasso
+  echo('Hello, World!')
+?>
