@@ -1,0 +1,4 @@
+node hello_world() returns ()
+let
+    assert(true -> false);
+tel
