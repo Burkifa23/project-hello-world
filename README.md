@@ -14,7 +14,7 @@ Hello World in different languages
 - [X] [I](https://github.com/Burkifa23/project-hello-world/blob/main/I/I.md)
 - [X] [J](https://github.com/Burkifa23/project-hello-world/blob/main/J/J.md)
 - [X] [K](https://github.com/Burkifa23/project-hello-world/blob/main/K/K.md)
-- [ ] L
+- [X] [L](https://github.com/Burkifa23/project-hello-world/blob/main/L/L.md)
 - [ ] M
 - [ ] N
 - [ ] O
