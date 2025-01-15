@@ -10,11 +10,11 @@ Hello World in different languages
 - [X] [E](https://github.com/Burkifa23/project-hello-world/blob/main/E/E.md)
 - [X] [F](https://github.com/Burkifa23/project-hello-world/blob/main/F/F.md)
 - [X] [G](https://github.com/Burkifa23/project-hello-world/blob/main/G/G.md)
-- [X] [H](https://github.com/Burkifa23/project-hello-world/blob/main/I/H.md)
+- [X] [H](https://github.com/Burkifa23/project-hello-world/blob/main/H/H.md)
 - [X] [I](https://github.com/Burkifa23/project-hello-world/blob/main/I/I.md)
 - [X] [J](https://github.com/Burkifa23/project-hello-world/blob/main/J/J.md)
 - [X] [K](https://github.com/Burkifa23/project-hello-world/blob/main/K/K.md)
-- [ ] L
+- [X] [L](https://github.com/Burkifa23/project-hello-world/blob/main/L/L.md)
 - [ ] M
 - [ ] N
 - [ ] O

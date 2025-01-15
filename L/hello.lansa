@@ -1,0 +1,5 @@
+Function Options(*DIRECT)
+Begin_Com Role(*EXTENDS #PRIM_FORM) Height(400) Width(600)
+   Define_Com Class(#PRIM_LABL) Name(#Label1) Caption('Hello, World!') Displayposition(1) Left(200) Parent(#COM_OWNER) Tabposition(1) Top(200)
+End_Com
+End_Function
