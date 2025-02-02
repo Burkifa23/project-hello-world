@@ -1,0 +1,3 @@
+BEGIN
+  OUTPUT := "Hello, World!";
+END.

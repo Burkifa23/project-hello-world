@@ -1,0 +1,7 @@
+mod! HELLO-WORLD is
+  including STRING .
+  op helloWorld : -> String .
+  eq helloWorld = "Hello, World!" .
+endm
+
+reduce in HELLO-WORLD : helloWorld .

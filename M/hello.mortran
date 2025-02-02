@@ -1,0 +1,3 @@
+begin
+  write(6,*) 'Hello, World!'
+end
