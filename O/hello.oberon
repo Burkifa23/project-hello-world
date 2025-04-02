@@ -1,0 +1,4 @@
+MODULE HelloWorld;
+BEGIN
+  Out.String("Hello, World!");
+END HelloWorld.
