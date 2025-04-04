@@ -1,0 +1,1 @@
+#declare Message = "Hello, World!";

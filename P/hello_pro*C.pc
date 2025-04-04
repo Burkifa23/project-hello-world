@@ -1,0 +1,10 @@
+#include <stdio.h>
+EXEC SQL BEGIN DECLARE SECTION;
+char *message = "Hello, World!";
+EXEC SQL END DECLARE SECTION;
+
+int main() {
+    EXEC SQL DECLARE C1 CURSOR FOR S1;
+    printf("%s\n", message);
+    return 0;
+}
