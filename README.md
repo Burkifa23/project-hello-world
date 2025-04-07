@@ -19,7 +19,7 @@ Hello World in different languages
 - [X] [L](https://github.com/COSSAVVU/project-hello-world/blob/main/L/L.md)
 - [X] [O](https://github.com/COSSAVVU/project-hello-world/blob/main/O/O.md)
 - [X] [P](https://github.com/COSSAVVU/project-hello-world/blob/main/P/P.md)
-- [ ] Q
+- [X] [Q](https://github.com/COSSAVVU/project-hello-world/blob/main/Q/Q.md)
 - [ ] R
 - [ ] S
 - [ ] T
