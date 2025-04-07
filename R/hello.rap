@@ -1,0 +1,3 @@
+PROC main()
+    Write("Hello, World!")
+ENDPROC
