@@ -1,0 +1,3 @@
+parallel {
+    print("Hello, World!")
+}
