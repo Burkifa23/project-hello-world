@@ -1,0 +1,7 @@
+TestCase HelloWorld {
+    start TestProcedure;
+}
+
+TestProcedure testcase {
+    log("Hello, World!");
+}
