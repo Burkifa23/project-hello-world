@@ -1,0 +1,5 @@
+class Main {
+    static function main() -> void {
+        print("Hello, World!\n");
+    }
+}
