@@ -1,0 +1,7 @@
+<xbl:document xmlns:xbl="http://www.mozilla.org/xbl">
+    <xbl:children>
+        <xbl:element name="button">
+            <xbl:content>Hello, World!</xbl:content>
+        </xbl:element>
+    </xbl:children>
+</xbl:document>
