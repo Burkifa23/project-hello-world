@@ -1,0 +1,3 @@
+PROCEDURE Main
+    Send Info_Box "Hello, World!" "Message"
+END_PROCEDURE
